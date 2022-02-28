@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Currency Cal</string>
+    <string name="Currency_calculater" />
+    <string name="Currency_Calculater" />
+    <string name="change_any_currency_to_shillings">Change any currency to Shillings</string>
+    <string name="dollars_to_shillings">Dollars_to_Shillings</string>
+    <string name="pounds_to_shillings">Pounds_to_Shillings</string>
+    <string name="euros_to_shillings">Euros_to_Shillings</string>
+    <string name="round_up_cents">round_up_cents</string>
+    <string name="calculate">calculate</string>
+    <string name="Kenyan_Shillings" />
+    <string name="Currency_Calculator" />
+</resources>
